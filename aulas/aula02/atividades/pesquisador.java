@@ -11,7 +11,7 @@ public class pesquisador {
         alturainicial = sc.nextDouble();
         tempoQueda = sc.nextDouble();
 ;
-        double alturaFinal = (alturainicial * 1000) - 0.5 * 9.8 * (tempoQueda * tempoQueda);
+        double alturaFinal = (alturainicial) - 0.5 * 9.8 * (tempoQueda * tempoQueda); //não sei se ta certo pois ainda anão corrigi
         double velocidadeFinal = 9.8  * tempoQueda;
 
         System.out.println(alturaFinal);

@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class atv1_condicional {
     public static void main(String[] args) {
-        int numero, nMaior, nMenor, media;
+        int numero, nMaior, nMenor;
+        double media;
 
         Scanner sc= new Scanner (System.in);
         nMaior = sc.nextInt();
