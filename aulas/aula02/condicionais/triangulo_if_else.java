@@ -1,4 +1,4 @@
-package aulas.aula02.condicionais;
+package aula02.condicionais;
 
 import java.util.Scanner;
 

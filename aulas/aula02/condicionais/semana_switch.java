@@ -1,4 +1,4 @@
-package aulas.aula02.condicionais;
+package aula02.condicionais;
 
 public class semana_switch {
     public static void main(String[] args) {
